@@ -49,8 +49,8 @@ alt="err" height="250px" />
   <h3>Some of my cool repositories</h3>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/>
-    <hr width="90%"/>  
-  <h3>Stats</h3>
+     
+  <h3> My Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en&theme=dark" alt="Nishant" />
 </div>
