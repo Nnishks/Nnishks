@@ -15,7 +15,7 @@ alt="err" height="250px" />
 
 - 📫 How to reach me **ns777777711@gmail.com**
 
-- ⚡ Fun fact **&nbsp;Moody ,, love to design website & play cricket**
+- ⚡ Fun fact **&nbsp;Moody , love to design website & play cricket**
 
 - 💯  **It's all about Growth**
 
