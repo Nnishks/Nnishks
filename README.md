@@ -5,9 +5,12 @@ alt="err" height="250px" />
 
 <h3 align="left">I am a bird without wings trying to figure out things!!!</h3>
 
-<p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=nnishks&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant" /> </p>
+<p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=nnishks&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant" /> 
+&nbsp;<img src="https://img.shields.io/github/followers/nnishks?label=Followers&style=social" alt="GitHub Badge"> </p>
 
 - 🌱 I’m currently learning **DSA and Web Devolopment.**
+
+- 🏠 From India , up
 
 - 👨‍💻 You can also check out my portfolio at [https://nnishks.github.io./](https://nnishks.github.io./)
 
@@ -50,12 +53,14 @@ alt="err" height="250px" />
   <a href="https://react-project-beige.vercel.app/"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/></a>
  <a href="https://smooth-book-cricket-com.netlify.app/"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/></a>
      
-  <h3> My Stats</h3>
+  <h3>💻 Some Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en&theme=dark" alt="Nishant" />
 </div>
                                                                                                                                         
   <hr width="90%"/>  
+   <br/>
+   <a href="https://github.com/KeshavCh0udhary/github-readme-activity-graph"><img alt="Nishant singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=nnishks&theme=react-dark&hide_border=true" /></a>
                  
 <!-- Funny Random Joke -->
 
