@@ -42,37 +42,49 @@ alt="err" height="250px" />
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img width="70px" height="28px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
+  
+  <hr width="50%"/>
 <!-- Most Popular Repository -->
 <div style="display-flex" align="left">
   <h3>Some of my cool repositories</h3>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/>
+  <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en&theme=dark" alt="Nishant" />
+</div>
+                                                                                                                                        
+  <hr width="90%"/>  
+                 
+<!-- Funny Random Joke -->
+
+<div align="center">
+                   
+  <h2>Here's a random developer joke </h2>
+                   
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</div>
+                                                                            
+<p align="center">
+  <code>Refresh the page for a new joke</code>
+</p>
+
+<div align="center">
+ <h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/rishabh-panesar/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+ <a href="https://www.instagram.com/rishabhpanesar/">
+ <img width="50px" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png">
+</a>
+<a href="https://twitter.com/PanesarRishabh">
+ <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png">
+</a>
+
+                                                     
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=51595564)
 
- 
-
-
-
-
-
-<table>
-        <tr>
-           <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nnishks&show_icons=true&locale=en&layout=compact" alt="Nishant Singh" />Connect with me:</p></td>
-            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en" alt="Nishant Singh" /></p></td>
-        </tr>
-    </table>
-
-<h3 >Connect with me:</h3>
- <p >
-<a href="https://linkedin.com/in/" target="blank"><img align="" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="Nishant singh" height="30" width="30" /></a>
-&nbsp;
-<a href="https://instagram.com/" target="blank"><img align="" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png" alt="Nishant__k.s" height="30" width="30" /></a>
-&nbsp;
-<a href="https://instagram.com/" target="blank"><img align="" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="Nishant" height="30" width="30" /></a>
-&nbsp;&nbsp;
-<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" /></p>
-  </p>
 
 
 
