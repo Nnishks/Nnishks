@@ -36,8 +36,11 @@
   <td><h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://linkedin.com/in/sreekaran1704" target="blank"><img align="center" src="https://www.iconfinder.com/icons/2986060/linkdin_logo_media_social_icon" alt="sreekaran1704" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sreekaran" target="blank"><img align="center" src="https://www.iconfinder.com/icons/2142569/circle_colored_gradient_instagram_media_social_social_media_icon" alt="iam_sreekaran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="Nishant singh" height="30" width="30" /></a>
+&nbsp;
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png" alt="Nishant__k.s" height="30" width="30" /></a>
+&nbsp;
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="Nishant" height="30" width="30" /></a>
 
 
    </p></td>
