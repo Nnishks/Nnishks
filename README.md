@@ -44,10 +44,10 @@ alt="err" height="250px" />
 </p>
 
 <!-- Most Popular Repository -->
-<div align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;<div align="left">
   <h3>Some of my cool repositories</h3>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
-  <img  height="160px" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark"/>
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark"/>
 </div>
 
 
