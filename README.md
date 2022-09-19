@@ -36,10 +36,10 @@
   <td><h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://linkedin.com/in/sreekaran1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreekaran1704" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sreekaran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreekaran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sreekaran1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreekaran1704" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreekaran1704" target="blank"><img align="center" src="https://www.iconfinder.com/icons/2986060/linkdin_logo_media_social_icon" alt="sreekaran1704" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_sreekaran" target="blank"><img align="center" src="https://www.iconfinder.com/icons/2142569/circle_colored_gradient_instagram_media_social_social_media_icon" alt="iam_sreekaran" height="30" width="40" /></a>
+
+
    </p></td>
  </tr>
  </table>
@@ -51,12 +51,12 @@
 
  <table>
         <tr>
-           <td><p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark)](https://git.io/streak-stats)" alt="sreekaran1704" /></p></td>
-            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en" alt="Sreekaran" /></p></td>
+           <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" /></p></td>
+            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nnishks&show_icons=true&locale=en" alt="Nishant Singh" /></p></td>
         </tr>
     </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nnishks&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nnishks&show_icons=true&locale=en&layout=compact" alt="Nishant Singh" /></p>
 
 
