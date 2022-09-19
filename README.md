@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋, I'm Nishant Singh</h1>
 <img align="right" width="370px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" 
 alt="err" height="250px" />
@@ -17,6 +16,8 @@ alt="err" height="250px" />
 - 📫 How to reach me **ns777777711@gmail.com**
 
 - ⚡ Fun fact **&nbsp;Moody ,, love to design website & play cricket**
+
+- 💯  **It's all about Growth**
 
 <hr width="50%"/>
 
