@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFjoYYfdff3mg/profile-displaybackgroundimage-shrink_350_1400/0/1648895433917?e=2147483647&v=beta&t=xU_mn-fkENDeD7HIJQILosjxGTEmEYaFIPhhirJl_uA)](https://sreekaran1704.github.io/Resume-Website/)
+
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and Web Devolopment.**
 
-- 👨‍💻 You can also check out my portfolio at [https://sreekaran1704.github.io/Resume-Website/](https://nnishks.github.io./)
+- 👨‍💻 You can also check out my portfolio at [https://nnishks.github.io./Resume-Website/](https://nnishks.github.io./)
 
 - 📫 How to reach me **ns777777711@gmail.com**
 
