@@ -42,9 +42,8 @@ alt="err" height="250px" />
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img width="70px" height="28px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
-
 <!-- Most Popular Repository -->
-&nbsp;&nbsp;&nbsp;&nbsp;<div style="display-flex" align="left">
+<div style="display-flex" align="left">
   <h3>Some of my cool repositories</h3>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark"/>
