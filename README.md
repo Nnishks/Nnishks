@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Nishant Singh</h1>
-<img align="right" width="300px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" 
+<img align="right" width="370px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" 
 alt="err" height="250px" />
 
 <h3 align="left">I am a bird without wings trying to figure out things!!!</h3>
