@@ -13,7 +13,7 @@ alt="err" height="250px" />
 
 - 📫 How to reach me **ns777777711@gmail.com**
 
-- ⚡ Fun fact **&nbsp;Moody and love to play cricket**
+- ⚡ Fun fact **&nbsp;Moody ,, love to design website & play cricket**
 
 <hr width="50%"/>
 
@@ -26,8 +26,8 @@ alt="err" height="250px" />
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img width="80px" height="28px"  src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img width="90px" height="28px" alt="react js" src="https://img.shields.io/badge/Mongo db-%23563D7C.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="https://www.mongodb.com/docs/" target="_blank"> <img width="90px" height="28px" alt="react js" src="https://img.shields.io/badge/Mongo db-%23563D7C.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+<a href="https://nodejs.org/en/docs/" target="_blank"> 
 <img width="70px" height="28px"  src="https://img.shields.io/badge/Node js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black" alt="node js" /> 
 </a> 
 
@@ -35,10 +35,10 @@ alt="err" height="250px" />
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img width="90px" height="28px" alt="react js" src="https://img.shields.io/badge/reactjs-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img width="80px" height="28px" src="https://img.shields.io/badge/Redux-1572B6?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img width="80px" height="28px"src="https://img.shields.io/badge/Chakra UI-E34F26?style=for-the-badge&logo=chakra ui&logoColor=white" alt="html5" /> 
+<a href="https://redux.js.org/" target="_blank"> <img width="80px" height="28px" src="https://img.shields.io/badge/Redux-1572B6?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>
+<a href="https://chakra-ui.com/" target="_blank"> <img width="80px" height="28px"src="https://img.shields.io/badge/Chakra UI-E34F26?style=for-the-badge&logo=chakra ui&logoColor=white" alt="chakra ui" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img width="90px" height="28px" src="https://img.shields.io/badge/Express Js-E34F26?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
+<a href="https://www.geeksforgeeks.org/express-js/" target="_blank"> <img width="90px" height="28px" src="https://img.shields.io/badge/Express Js-E34F26?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img width="70px" height="28px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
@@ -47,8 +47,8 @@ alt="err" height="250px" />
 <!-- Most Popular Repository -->
 <div style="display-flex" align="left">
   <h3>Some of my cool repositories</h3>
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/>
+  <a href="https://react-project-beige.vercel.app/"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/></a>
+ <a href="https://smooth-book-cricket-com.netlify.app/"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/></a>
      
   <h3> My Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
@@ -72,13 +72,13 @@ alt="err" height="250px" />
 
 <div align="center">
  <h3>Connect with me 🙋🏻</h3>
-<a href="https://www.linkedin.com/in/rishabh-panesar/" target="_blank">
+<a href="https://www.linkedin.com/in/nishant-singh-9621421b8/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
- <a href="https://www.instagram.com/rishabhpanesar/">
+ <a href="https://www.instagram.com/nishant__k.s/">
  <img width="50px" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png">
 </a>
-<a href="https://twitter.com/PanesarRishabh">
+<a href="[https://twitter.com/PanesarRishabh](https://m.facebook.com/100009238615466/)">
  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png">
 </a>
 
