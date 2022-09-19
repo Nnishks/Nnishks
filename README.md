@@ -46,10 +46,8 @@ alt="err" height="250px" />
 <!-- Most Popular Repository -->
 <div align="center">
   <h3>Some of my cool repositories</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=cagey-bIte-6066&theme=react&langs_count=5"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Spotify-clone&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabh2412&repo=Fraazo-Clone&theme=react&langs_count=5"/>
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/>
+  <img  height="160px" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark"/>
 </div>
 
 
