@@ -5,7 +5,7 @@ alt="err" height="250px" />
 <h3 align="left">I am a bird without wings trying to figure out things!!!</h3>
 
 <p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=nnishks&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant" /> 
-&nbsp;<img src="https://img.shields.io/github/followers/nnishks?label=Followers&style=social" alt="GitHub Badge"> </p>
+&nbsp;</p>
 
 - 🌱 I’m currently learning **DSA and Web Devolopment.**
 
