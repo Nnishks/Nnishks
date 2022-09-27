@@ -51,6 +51,7 @@ alt="err" height="250px" />
 <!-- Most Popular Repository -->
 <div style="display-flex" align="left">
   <h3>Some of my cool repositories</h3>
+ <code>Click on the repos to preview live </code> 
   <a href="https://react-project-beige.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5" /></a>
  <a href="https://smooth-book-cricket-com.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5" /></a>
 <a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Search_movie&theme=dark&langs_count=5" /></a>  
