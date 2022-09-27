@@ -53,6 +53,8 @@ alt="err" height="250px" />
   <h3>Some of my cool repositories</h3>
   <a href="https://react-project-beige.vercel.app/"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5"/></a>
  <a href="https://smooth-book-cricket-com.netlify.app/"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5""/></a>
+ <a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Search_movie&theme=dark&langs_count=5""/></a>
+ <a href="https://nnishks.github.io/"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=https://github.com/Nnishks/Nnishks.github.io&theme=dark&langs_count=5""/></a>
      
   <h3>💻 Some Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
