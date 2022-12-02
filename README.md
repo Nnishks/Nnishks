@@ -51,13 +51,11 @@ alt="err" height="250px" />
 <!-- Most Popular Repository -->
 <div style="display-flex" align="left">
   <h3>Some of my cool repositories (Click on the repos to preview live )</h3>
- <a href="https://react-project-beige.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5" /></a>
- <a href="https://smooth-book-cricket-com.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5" /></a>
-   <a href="https://deluxe-scone-00ddbf.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=My_calculator
-&theme=dark&langs_count=5" /></a>
-<!-- <a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Search_movie&theme=dark&langs_count=5" /></a>   -->
-  <a href="https://frontend-five-amber.vercel.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=V-Chat&theme=dark&langs_count=5" /></a>  
-<!--  <a href="https://nnishks.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Nnishks.github.io&theme=dark&langs_count=5" /></a> -->
+  <a href="https://react-project-beige.vercel.app/"><img alt="Nature Basket Clone err" src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Natures-Basket_Clone&theme=dark&langs_count=5"/></a>
+  <a href="https://smooth-book-cricket-com.netlify.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Cricket.com_Clone&theme=dark&langs_count=5" /></a>
+  <a href="https://deluxe-scone-00ddbf.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=My_calculator&theme=dark&langs_count=5" /></a>
+<a href="https://frontend-five-amber.vercel.app/"><img alt="v-chat application error internal"src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=V-Chat&theme=dark&langs_count=5" /></a>  
+
      
   <h3>💻 Some Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=nnishks&theme=dark" alt="Nishant singh" />
