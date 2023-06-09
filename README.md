@@ -11,7 +11,7 @@ alt="err" height="250px" />
 
 - 🏠 From India , up
 
-- 👨‍💻 You can also check out my portfolio at [https://nnishks.github.io./](https://nnishks.github.io./)
+
 
 - 📫 How to reach me **ns777777711@gmail.com**
 
