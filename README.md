@@ -84,12 +84,8 @@ alt="err" height="250px" />
 <a href="https://www.linkedin.com/in/nishant-singh-9621421b8/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
- <a href="https://www.instagram.com/nishant__k.s/">
- <img width="50px" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png">
-</a>
-<a href="https://m.facebook.com/nishu.singh.9887117?eav=Afb56STomflNf2xVWY65rSS7g8KwCrnMP6wQ3dlFq1XCyHPcDbuYutobkZPJYWyw4ZU&paipv=0">
- <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png">
-</a>
+
+
 
                                                      
 </div>
